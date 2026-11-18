@@ -1,0 +1,10 @@
+{
+  "name": "Phoenix Helper",
+  "short_name": "Phoenix",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f1f0",
+  "theme_color": "#e75335",
+  "lang": "ar",
+  "description": "Phoenix invoice barcode helper"
+}
